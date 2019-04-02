@@ -1,0 +1,11 @@
+BuDogruDegil = dogru ve yanlis ;
+AnilC = 21 ;
+AnilC = AnilC + 5 * 2 ;
+yazdir("dogru veya yanlis") ;
+Aaa = 23 * 10 ;
+Logic = 0 veya 1 ;
+yazdir(Logic ve AnilC <= Aaa);
+dongu dogru {
+	yazdir("h");
+	kir;
+}
